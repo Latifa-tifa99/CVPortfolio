@@ -1,2 +1,0 @@
-# CVPortfolio
-CV portfolio
