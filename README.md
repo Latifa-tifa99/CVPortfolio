@@ -18,4 +18,4 @@ Mon portfolio personnel présentant mon profil, mes compétences et mes projets 
 - Contact
 
 ## Contact
-- E-mail : latifaout99@gmail.com
+- E-mail : latifaoutamzilt.dev@gmail.com
