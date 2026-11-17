@@ -2,7 +2,7 @@
 
 Mon portfolio personnel présentant mon profil, mes compétences et mes projets en développement web.
 
-🔗 **Voir le site :
+🔗 **Voir le site : https://latifa-outamzilt-portfolio.netlify.app
 
 ## Technologies utilisées
 - HTML5
